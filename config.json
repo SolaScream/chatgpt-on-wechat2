@@ -1,5 +1,5 @@
 {
-  "open_ai_api_key": "YOUR API KEY",
+  "open_ai_api_key": "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",
   "model": "gpt-3.5-turbo",
   "proxy": "",
   "single_chat_prefix": [
@@ -11,11 +11,10 @@
     "@bot"
   ],
   "group_name_white_list": [
-    "ChatGPT测试群",
-    "ChatGPT测试群2"
+    "ALL_GROUP"
   ],
   "group_chat_in_one_session": [
-    "ChatGPT测试群"
+    "ALL_GROUP"
   ],
   "image_create_prefix": [
     "画",
